@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/nav_vehicle_document"
+        android:title="Home"
+        android:icon="@drawable/ic_terms"/>
+
+    <item
+        android:id="@+id/nav_about_us"
+        android:title="About Us"
+        android:icon="@drawable/ic_info"/>
+
+    <item
+        android:id="@+id/nav_privacy_policy"
+        android:title="Privacy Policy"
+        android:icon="@drawable/ic_privacy"/>
+
+    <item
+        android:id="@+id/nav_terms_conditions"
+        android:title="Terms and Conditions"
+        android:icon="@drawable/ic_terms"/>
+
+</menu>
